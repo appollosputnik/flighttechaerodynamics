@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LocalDebuggerEnvironment>PATH=%PATH%;C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\win64\vc14\bind;C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\bin;C:\OpenCASCADE-7.7.0-vc14-64\ffmpeg-3.3.4-64\bin;C:\OpenCASCADE-7.7.0-vc14-64\freeimage-3.17.0-vc14-64\bin;C:\OpenCASCADE-7.7.0-vc14-64\freetype-2.5.5-vc14-64\bin;C:\OpenCASCADE-7.7.0-vc14-64\openvr-1.14.15-64\bin\win64;C:\OpenCASCADE-7.7.0-vc14-64\tbb_2021.5-vc14-64\bin;C:\OpenCASCADE-7.7.0-vc14-64\tcltk-86-64\bin;C:\OpenCASCADE-7.7.0-vc14-64\VTK\build\bin;
+$(LocalDebuggerEnvironment)</LocalDebuggerEnvironment>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LocalDebuggerEnvironment>PATH=%PATH%;C:\OpenCASCADE-7.6.0-vc14-64\ffmpeg-3.3.4-64\bin;C:\OpenCASCADE-7.6.0-vc14-64\freeimage-3.17.0-vc14-64\bin;C:\OpenCASCADE-7.6.0-vc14-64\freetype-2.5.5-vc14-64\bin;C:\OpenCASCADE-7.6.0-vc14-64\opencascade-7.6.0\win64\vc14\bin;C:\OpenCASCADE-7.6.0-vc14-64\openvr-1.14.15-64\bin\win64;C:\OpenCASCADE-7.6.0-vc14-64\qt5.11.2-vc14-64\bin;C:\OpenCASCADE-7.6.0-vc14-64\tbb_2017.0.100\bin\intel64\vc14;C:\OpenCASCADE-7.6.0-vc14-64\tcltk-86-64\bin;C:\OpenCASCADE-7.6.0-vc14-64\VTK\build\bin;
+$(LocalDebuggerEnvironment)</LocalDebuggerEnvironment>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>

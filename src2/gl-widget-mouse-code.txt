@@ -1,0 +1,119 @@
+#include "cmyopengl.h"
+
+CMyOpenGL::CMyOpenGL():
+    left(-5.0),
+    right(5.0),
+    bottom(5.0),
+    top(-5.0),
+    zNear(-5.0),
+    zFar(5.0),
+    state(NOMOVE)
+{
+    trans[0] = 0.0;
+    trans[1] = 0.0;
+    trans[2] = 0.0;
+    rot[0] = 0.0;
+    rot[1] = 0.0;
+    rot[2] = 0.0;
+    scaleFactor = 1.0;
+}
+
+
+void CMyOpenGL::initializeGL()
+{
+    glClearColor(0.0, 0.0, 0.0, 1.0);
+}
+void CMyOpenGL::paintGL()
+{
+    glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
+
+    glTranslatef(trans[0], trans[1], trans[2]);
+    glRotatef(rot[0],1.0, 0.0, 0.0);
+    glRotatef(rot[1],0.0, 1.0, 0.0);
+    glRotatef(rot[2],0.0, 0.0, 1.0);
+    glScalef(scaleFactor, scaleFactor, scaleFactor);
+
+    glBegin(GL_TRIANGLES);
+    glVertex3f(0.0, 0.0, 0.0);
+    glVertex3f(3.0, 0.0, 0.0);
+    glVertex3f(1.5, 3.0, 0.0);
+    glEnd();
+
+    glFlush();
+
+}
+void CMyOpenGL::resizeGL(int w, int h)
+{
+    glViewport(0, 0,  w, h );
+    glLoadIdentity();
+    glMatrixMode(GL_PROJECTION);
+    glOrtho(left, right, bottom, top, zNear, zFar);
+    glMatrixMode(GL_MODELVIEW);
+    glLoadIdentity();
+}
+void CMyOpenGL::MousePressEvent(QMouseEvent *e)
+{
+    old_pos = e->pos();
+
+    if(e->button()==Qt::LeftButton)
+    {
+        state = PAN;
+    }
+    else if(e->button()==Qt::RightButton)
+    {
+        state = ZOOM;
+    }
+    else if(e->button()==Qt::MiddleButton)
+    {
+        state = ROTATE;
+    }
+}
+void CMyOpenGL::MouseReleaseEvent(QMouseEvent *e)
+{
+    state  = NOMOVE;
+}
+void CMyOpenGL::MouseMoveEvent(QMouseEvent *e)
+{
+    new_pos = e->pos();
+
+    dx = old_pos.x() - new_pos.x();
+    dy = new_pos.y() - old_pos.y();
+
+    if(PAN)
+    {
+       trans[0] -= dx;
+       trans[1] -= dy;
+       updateGL();
+    }
+    else if(ZOOM)
+    {
+        if(new_pos.y() < old_pos.y())
+            scaleFactor /= 0.75;
+        else
+            scaleFactor *= 0.75;
+
+        updateGL();
+    }
+    else if(ROTATE)
+    {
+        rot[0] += (dy * 180.0f)/500.0f;
+        rot[1] += (dx * 180.0f)/500.0f;
+
+#define clamp(x) x > 360.0f ? x-360.0f : x < -360.0f ? x += 360.0f : x
+        clamp(rot[0]);
+        clamp(rot[1]);
+        updateGL();
+    }
+}
+void CMyOpenGL::WheelEvent(QWheelEvent *e)
+{
+    if(e->delta() > 0 )
+    {
+        scaleFactor /= 0.75;
+    }
+    else
+    {
+        scaleFactor *= 0.75;
+    }
+    updateGL();
+}

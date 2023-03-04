@@ -1,0 +1,430 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (FlightTechAerodynamics.vcxproj, Tutorial.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  MOC ../Common/src/MDIWindow.h
+  LRELEASE ../Common/src/Common-icon.ts
+  Updating 'C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\win64\vc143\res/Common-icon.qm'...
+      Generated 35 translation(s) (35 finished and 0 unfinished)
+  LRELEASE ../Common/src/Common-string.ts
+  Updating 'C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\win64\vc143\res/Common-string.qm'...
+      Generated 113 translation(s) (113 finished and 0 unfinished)
+  LRELEASE ../Interface/src/Interface-string.ts
+  Updating 'C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\win64\vc143\res/Interface-string.qm'...
+      Generated 50 translation(s) (50 finished and 0 unfinished)
+  LRELEASE src/Tutorial-icon.ts
+  Updating 'C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\win64\vc143\res/Tutorial-icon.qm'...
+      Generated 1 translation(s) (1 finished and 0 unfinished)
+  LRELEASE src/Tutorial-string.ts
+  Updating 'C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\win64\vc143\res/Tutorial-string.qm'...
+      Generated 5 translation(s) (5 finished and 0 unfinished)
+  Copy resource res/Bottle.png
+  Copy resource res/SampleImportExport.png
+  Copy resource ../Common/res/antialiasing.png
+  Copy resource ../Common/res/cascade.png
+  Copy resource ../Common/res/close.png
+  Copy resource ../Common/res/cursor_rotate.png
+  Copy resource ../Common/res/cursor_zoom.png
+  Copy resource ../Common/res/document.png
+  Copy resource ../Common/res/help.png
+  Copy resource ../Common/res/lamp.png
+  Copy resource ../Common/res/new.png
+  Copy resource ../Common/res/raytracing.png
+  Copy resource ../Common/res/reflections.png
+  Copy resource ../Common/res/shadows.png
+  Copy resource ../Common/res/tile.png
+  Copy resource ../Common/res/tool-shading.png
+  Copy resource ../Common/res/tool_color.png
+  Copy resource ../Common/res/tool_delete.png
+  Copy resource ../Common/res/tool_material.png
+  Copy resource ../Common/res/tool_shading.png
+  Copy resource ../Common/res/tool_transparency.png
+  Copy resource ../Common/res/tool_wireframe.png
+  Copy resource ../Common/res/view_axo.png
+  Copy resource ../Common/res/view_back.png
+  Copy resource ../Common/res/view_bottom.png
+  Copy resource ../Common/res/view_comp_off.png
+  Copy resource ../Common/res/view_comp_on.png
+  Copy resource ../Common/res/view_fitall.png
+  Copy resource ../Common/res/view_fitarea.png
+  Copy resource ../Common/res/view_front.png
+  Copy resource ../Common/res/view_glpan.png
+  Copy resource ../Common/res/view_left.png
+  Copy resource ../Common/res/view_pan.png
+  Copy resource ../Common/res/view_reset.png
+  Copy resource ../Common/res/view_right.png
+  Copy resource ../Common/res/view_rotate.png
+  Copy resource ../Common/res/view_top.png
+  Copy resource ../Common/res/view_zoom.png
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): warning MSB8065: Custom build for item "..\Common\src\Common-icon.ts" succeeded, but specified output "c:\opencascade-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\common-icon.qm" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): warning MSB8065: Custom build for item "..\Common\src\Common-string.ts" succeeded, but specified output "c:\opencascade-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\common-string.qm" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): warning MSB8065: Custom build for item "..\Interface\src\Interface-string.ts" succeeded, but specified output "c:\opencascade-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\interface-string.qm" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): warning MSB8065: Custom build for item "src\Tutorial-icon.ts" succeeded, but specified output "c:\opencascade-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\tutorial-icon.qm" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): warning MSB8065: Custom build for item "src\Tutorial-string.ts" succeeded, but specified output "c:\opencascade-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\tutorial-string.qm" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): warning MSB8065: Custom build for item "res\Bottle.png" succeeded, but specified output "c:\opencascade-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\bottle.png" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): warning MSB8065: Custom build for item "res\SampleImportExport.png" succeeded, but specified output "c:\opencascade-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\sampleimportexport.png" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): warning MSB8065: Custom build for item "..\Common\res\antialiasing.png" succeeded, but specified output "c:\opencascade-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\antialiasing.png" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): warning MSB8065: Custom build for item "..\Common\res\cascade.png" succeeded, but specified output "c:\opencascade-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\cascade.png" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): warning MSB8065: Custom build for item "..\Common\res\close.png" succeeded, but specified output "c:\opencascade-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\close.png" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): warning MSB8065: Custom build for item "..\Common\res\cursor_rotate.png" succeeded, but specified output "c:\opencascade-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\cursor_rotate.png" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): warning MSB8065: Custom build for item "..\Common\res\cursor_zoom.png" succeeded, but specified output "c:\opencascade-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\cursor_zoom.png" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): warning MSB8065: Custom build for item "..\Common\res\document.png" succeeded, but specified output "c:\opencascade-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\document.png" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): warning MSB8065: Custom build for item "..\Common\res\help.png" succeeded, but specified output "c:\opencascade-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\help.png" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): warning MSB8065: Custom build for item "..\Common\res\lamp.png" succeeded, but specified output "c:\opencascade-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\lamp.png" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): warning MSB8065: Custom build for item "..\Common\res\new.png" succeeded, but specified output "c:\opencascade-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\new.png" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): warning MSB8065: Custom build for item "..\Common\res\raytracing.png" succeeded, but specified output "c:\opencascade-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\raytracing.png" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): warning MSB8065: Custom build for item "..\Common\res\reflections.png" succeeded, but specified output "c:\opencascade-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\reflections.png" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): warning MSB8065: Custom build for item "..\Common\res\shadows.png" succeeded, but specified output "c:\opencascade-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\shadows.png" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): warning MSB8065: Custom build for item "..\Common\res\tile.png" succeeded, but specified output "c:\opencascade-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\tile.png" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): warning MSB8065: Custom build for item "..\Common\res\tool-shading.png" succeeded, but specified output "c:\opencascade-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\tool-shading.png" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): warning MSB8065: Custom build for item "..\Common\res\tool_color.png" succeeded, but specified output "c:\opencascade-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\tool_color.png" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): warning MSB8065: Custom build for item "..\Common\res\tool_delete.png" succeeded, but specified output "c:\opencascade-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\tool_delete.png" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): warning MSB8065: Custom build for item "..\Common\res\tool_material.png" succeeded, but specified output "c:\opencascade-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\tool_material.png" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): warning MSB8065: Custom build for item "..\Common\res\tool_shading.png" succeeded, but specified output "c:\opencascade-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\tool_shading.png" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): warning MSB8065: Custom build for item "..\Common\res\tool_transparency.png" succeeded, but specified output "c:\opencascade-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\tool_transparency.png" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): warning MSB8065: Custom build for item "..\Common\res\tool_wireframe.png" succeeded, but specified output "c:\opencascade-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\tool_wireframe.png" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): warning MSB8065: Custom build for item "..\Common\res\view_axo.png" succeeded, but specified output "c:\opencascade-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\view_axo.png" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): warning MSB8065: Custom build for item "..\Common\res\view_back.png" succeeded, but specified output "c:\opencascade-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\view_back.png" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): warning MSB8065: Custom build for item "..\Common\res\view_bottom.png" succeeded, but specified output "c:\opencascade-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\view_bottom.png" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): warning MSB8065: Custom build for item "..\Common\res\view_comp_off.png" succeeded, but specified output "c:\opencascade-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\view_comp_off.png" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): warning MSB8065: Custom build for item "..\Common\res\view_comp_on.png" succeeded, but specified output "c:\opencascade-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\view_comp_on.png" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): warning MSB8065: Custom build for item "..\Common\res\view_fitall.png" succeeded, but specified output "c:\opencascade-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\view_fitall.png" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): warning MSB8065: Custom build for item "..\Common\res\view_fitarea.png" succeeded, but specified output "c:\opencascade-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\view_fitarea.png" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): warning MSB8065: Custom build for item "..\Common\res\view_front.png" succeeded, but specified output "c:\opencascade-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\view_front.png" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): warning MSB8065: Custom build for item "..\Common\res\view_glpan.png" succeeded, but specified output "c:\opencascade-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\view_glpan.png" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): warning MSB8065: Custom build for item "..\Common\res\view_left.png" succeeded, but specified output "c:\opencascade-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\view_left.png" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): warning MSB8065: Custom build for item "..\Common\res\view_pan.png" succeeded, but specified output "c:\opencascade-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\view_pan.png" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): warning MSB8065: Custom build for item "..\Common\res\view_reset.png" succeeded, but specified output "c:\opencascade-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\view_reset.png" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): warning MSB8065: Custom build for item "..\Common\res\view_right.png" succeeded, but specified output "c:\opencascade-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\view_right.png" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): warning MSB8065: Custom build for item "..\Common\res\view_rotate.png" succeeded, but specified output "c:\opencascade-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\view_rotate.png" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): warning MSB8065: Custom build for item "..\Common\res\view_top.png" succeeded, but specified output "c:\opencascade-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\view_top.png" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): warning MSB8065: Custom build for item "..\Common\res\view_zoom.png" succeeded, but specified output "c:\opencascade-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\view_zoom.png" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1101,5): warning MSB8027: Two or more files with the name of Main.cxx will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are src\Main.cxx, src2\main.cxx.
+  Application.cxx
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(481,13): warning C4251: 'QVariant::d': struct 'QVariant::Private' needs to have dll-interface to be used by clients of class 'QVariant'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(389,12): message : see declaration of 'QVariant::Private'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(604,48): warning C4251: 'QSequentialIterable::m_impl': class 'QtMetaTypePrivate::QSequentialIterableImpl' needs to have dll-interface to be used by clients of class 'QSequentialIterable'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(979,7): message : see declaration of 'QtMetaTypePrivate::QSequentialIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(609,52): warning C4251: 'QSequentialIterable::const_iterator::m_impl': class 'QtMetaTypePrivate::QSequentialIterableImpl' needs to have dll-interface to be used by clients of struct 'QSequentialIterable::const_iterator'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(979,7): message : see declaration of 'QtMetaTypePrivate::QSequentialIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(657,49): warning C4251: 'QAssociativeIterable::m_impl': class 'QtMetaTypePrivate::QAssociativeIterableImpl' needs to have dll-interface to be used by clients of class 'QAssociativeIterable'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(1140,7): message : see declaration of 'QtMetaTypePrivate::QAssociativeIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(662,53): warning C4251: 'QAssociativeIterable::const_iterator::m_impl': class 'QtMetaTypePrivate::QAssociativeIterableImpl' needs to have dll-interface to be used by clients of struct 'QAssociativeIterable::const_iterator'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(1140,7): message : see declaration of 'QtMetaTypePrivate::QAssociativeIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qlocale.h(1093,40): warning C4251: 'QLocale::d': class 'QSharedDataPointer<QLocalePrivate>' needs to have dll-interface to be used by clients of class 'QLocale'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qlocale.h(1093,5): message : see declaration of 'QSharedDataPointer<QLocalePrivate>'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtWidgets\qlayoutitem.h(86,19): warning C4251: 'QLayoutItem::align': class 'QFlags<Qt::AlignmentFlag>' needs to have dll-interface to be used by clients of class 'QLayoutItem'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qnamespace.h(227,5): message : see declaration of 'QFlags<Qt::AlignmentFlag>'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextformat.h(373,44): warning C4251: 'QTextFormat::d': class 'QSharedDataPointer<QTextFormatPrivate>' needs to have dll-interface to be used by clients of class 'QTextFormat'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextformat.h(373,5): message : see declaration of 'QSharedDataPointer<QTextFormatPrivate>'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextcursor.h(231,44): warning C4251: 'QTextCursor::d': class 'QSharedDataPointer<QTextCursorPrivate>' needs to have dll-interface to be used by clients of class 'QTextCursor'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextcursor.h(231,5): message : see declaration of 'QSharedDataPointer<QTextCursorPrivate>'
+  ApplicationCommon.cxx
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(481,13): warning C4251: 'QVariant::d': struct 'QVariant::Private' needs to have dll-interface to be used by clients of class 'QVariant'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(389,12): message : see declaration of 'QVariant::Private'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(604,48): warning C4251: 'QSequentialIterable::m_impl': class 'QtMetaTypePrivate::QSequentialIterableImpl' needs to have dll-interface to be used by clients of class 'QSequentialIterable'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(979,7): message : see declaration of 'QtMetaTypePrivate::QSequentialIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(609,52): warning C4251: 'QSequentialIterable::const_iterator::m_impl': class 'QtMetaTypePrivate::QSequentialIterableImpl' needs to have dll-interface to be used by clients of struct 'QSequentialIterable::const_iterator'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(979,7): message : see declaration of 'QtMetaTypePrivate::QSequentialIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(657,49): warning C4251: 'QAssociativeIterable::m_impl': class 'QtMetaTypePrivate::QAssociativeIterableImpl' needs to have dll-interface to be used by clients of class 'QAssociativeIterable'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(1140,7): message : see declaration of 'QtMetaTypePrivate::QAssociativeIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(662,53): warning C4251: 'QAssociativeIterable::const_iterator::m_impl': class 'QtMetaTypePrivate::QAssociativeIterableImpl' needs to have dll-interface to be used by clients of struct 'QAssociativeIterable::const_iterator'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(1140,7): message : see declaration of 'QtMetaTypePrivate::QAssociativeIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qlocale.h(1093,40): warning C4251: 'QLocale::d': class 'QSharedDataPointer<QLocalePrivate>' needs to have dll-interface to be used by clients of class 'QLocale'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qlocale.h(1093,5): message : see declaration of 'QSharedDataPointer<QLocalePrivate>'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtWidgets\qlayoutitem.h(86,19): warning C4251: 'QLayoutItem::align': class 'QFlags<Qt::AlignmentFlag>' needs to have dll-interface to be used by clients of class 'QLayoutItem'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qnamespace.h(227,5): message : see declaration of 'QFlags<Qt::AlignmentFlag>'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextformat.h(373,44): warning C4251: 'QTextFormat::d': class 'QSharedDataPointer<QTextFormatPrivate>' needs to have dll-interface to be used by clients of class 'QTextFormat'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextformat.h(373,5): message : see declaration of 'QSharedDataPointer<QTextFormatPrivate>'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextcursor.h(231,44): warning C4251: 'QTextCursor::d': class 'QSharedDataPointer<QTextCursorPrivate>' needs to have dll-interface to be used by clients of class 'QTextCursor'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextcursor.h(231,5): message : see declaration of 'QSharedDataPointer<QTextCursorPrivate>'
+  ApplicationTut.cxx
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(481,13): warning C4251: 'QVariant::d': struct 'QVariant::Private' needs to have dll-interface to be used by clients of class 'QVariant'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(389,12): message : see declaration of 'QVariant::Private'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(604,48): warning C4251: 'QSequentialIterable::m_impl': class 'QtMetaTypePrivate::QSequentialIterableImpl' needs to have dll-interface to be used by clients of class 'QSequentialIterable'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(979,7): message : see declaration of 'QtMetaTypePrivate::QSequentialIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(609,52): warning C4251: 'QSequentialIterable::const_iterator::m_impl': class 'QtMetaTypePrivate::QSequentialIterableImpl' needs to have dll-interface to be used by clients of struct 'QSequentialIterable::const_iterator'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(979,7): message : see declaration of 'QtMetaTypePrivate::QSequentialIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(657,49): warning C4251: 'QAssociativeIterable::m_impl': class 'QtMetaTypePrivate::QAssociativeIterableImpl' needs to have dll-interface to be used by clients of class 'QAssociativeIterable'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(1140,7): message : see declaration of 'QtMetaTypePrivate::QAssociativeIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(662,53): warning C4251: 'QAssociativeIterable::const_iterator::m_impl': class 'QtMetaTypePrivate::QAssociativeIterableImpl' needs to have dll-interface to be used by clients of struct 'QAssociativeIterable::const_iterator'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(1140,7): message : see declaration of 'QtMetaTypePrivate::QAssociativeIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qlocale.h(1093,40): warning C4251: 'QLocale::d': class 'QSharedDataPointer<QLocalePrivate>' needs to have dll-interface to be used by clients of class 'QLocale'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qlocale.h(1093,5): message : see declaration of 'QSharedDataPointer<QLocalePrivate>'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtWidgets\qlayoutitem.h(86,19): warning C4251: 'QLayoutItem::align': class 'QFlags<Qt::AlignmentFlag>' needs to have dll-interface to be used by clients of class 'QLayoutItem'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qnamespace.h(227,5): message : see declaration of 'QFlags<Qt::AlignmentFlag>'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextformat.h(373,44): warning C4251: 'QTextFormat::d': class 'QSharedDataPointer<QTextFormatPrivate>' needs to have dll-interface to be used by clients of class 'QTextFormat'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextformat.h(373,5): message : see declaration of 'QSharedDataPointer<QTextFormatPrivate>'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextcursor.h(231,44): warning C4251: 'QTextCursor::d': class 'QSharedDataPointer<QTextCursorPrivate>' needs to have dll-interface to be used by clients of class 'QTextCursor'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextcursor.h(231,5): message : see declaration of 'QSharedDataPointer<QTextCursorPrivate>'
+  DocumentCommon.cxx
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(481,13): warning C4251: 'QVariant::d': struct 'QVariant::Private' needs to have dll-interface to be used by clients of class 'QVariant'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(389,12): message : see declaration of 'QVariant::Private'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(604,48): warning C4251: 'QSequentialIterable::m_impl': class 'QtMetaTypePrivate::QSequentialIterableImpl' needs to have dll-interface to be used by clients of class 'QSequentialIterable'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(979,7): message : see declaration of 'QtMetaTypePrivate::QSequentialIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(609,52): warning C4251: 'QSequentialIterable::const_iterator::m_impl': class 'QtMetaTypePrivate::QSequentialIterableImpl' needs to have dll-interface to be used by clients of struct 'QSequentialIterable::const_iterator'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(979,7): message : see declaration of 'QtMetaTypePrivate::QSequentialIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(657,49): warning C4251: 'QAssociativeIterable::m_impl': class 'QtMetaTypePrivate::QAssociativeIterableImpl' needs to have dll-interface to be used by clients of class 'QAssociativeIterable'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(1140,7): message : see declaration of 'QtMetaTypePrivate::QAssociativeIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(662,53): warning C4251: 'QAssociativeIterable::const_iterator::m_impl': class 'QtMetaTypePrivate::QAssociativeIterableImpl' needs to have dll-interface to be used by clients of struct 'QAssociativeIterable::const_iterator'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(1140,7): message : see declaration of 'QtMetaTypePrivate::QAssociativeIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qlocale.h(1093,40): warning C4251: 'QLocale::d': class 'QSharedDataPointer<QLocalePrivate>' needs to have dll-interface to be used by clients of class 'QLocale'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qlocale.h(1093,5): message : see declaration of 'QSharedDataPointer<QLocalePrivate>'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtWidgets\qlayoutitem.h(86,19): warning C4251: 'QLayoutItem::align': class 'QFlags<Qt::AlignmentFlag>' needs to have dll-interface to be used by clients of class 'QLayoutItem'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qnamespace.h(227,5): message : see declaration of 'QFlags<Qt::AlignmentFlag>'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextformat.h(373,44): warning C4251: 'QTextFormat::d': class 'QSharedDataPointer<QTextFormatPrivate>' needs to have dll-interface to be used by clients of class 'QTextFormat'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextformat.h(373,5): message : see declaration of 'QSharedDataPointer<QTextFormatPrivate>'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextcursor.h(231,44): warning C4251: 'QTextCursor::d': class 'QSharedDataPointer<QTextCursorPrivate>' needs to have dll-interface to be used by clients of class 'QTextCursor'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextcursor.h(231,5): message : see declaration of 'QSharedDataPointer<QTextCursorPrivate>'
+  DocumentTut.cxx
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(481,13): warning C4251: 'QVariant::d': struct 'QVariant::Private' needs to have dll-interface to be used by clients of class 'QVariant'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(389,12): message : see declaration of 'QVariant::Private'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(604,48): warning C4251: 'QSequentialIterable::m_impl': class 'QtMetaTypePrivate::QSequentialIterableImpl' needs to have dll-interface to be used by clients of class 'QSequentialIterable'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(979,7): message : see declaration of 'QtMetaTypePrivate::QSequentialIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(609,52): warning C4251: 'QSequentialIterable::const_iterator::m_impl': class 'QtMetaTypePrivate::QSequentialIterableImpl' needs to have dll-interface to be used by clients of struct 'QSequentialIterable::const_iterator'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(979,7): message : see declaration of 'QtMetaTypePrivate::QSequentialIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(657,49): warning C4251: 'QAssociativeIterable::m_impl': class 'QtMetaTypePrivate::QAssociativeIterableImpl' needs to have dll-interface to be used by clients of class 'QAssociativeIterable'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(1140,7): message : see declaration of 'QtMetaTypePrivate::QAssociativeIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(662,53): warning C4251: 'QAssociativeIterable::const_iterator::m_impl': class 'QtMetaTypePrivate::QAssociativeIterableImpl' needs to have dll-interface to be used by clients of struct 'QAssociativeIterable::const_iterator'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(1140,7): message : see declaration of 'QtMetaTypePrivate::QAssociativeIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qlocale.h(1093,40): warning C4251: 'QLocale::d': class 'QSharedDataPointer<QLocalePrivate>' needs to have dll-interface to be used by clients of class 'QLocale'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qlocale.h(1093,5): message : see declaration of 'QSharedDataPointer<QLocalePrivate>'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtWidgets\qlayoutitem.h(86,19): warning C4251: 'QLayoutItem::align': class 'QFlags<Qt::AlignmentFlag>' needs to have dll-interface to be used by clients of class 'QLayoutItem'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qnamespace.h(227,5): message : see declaration of 'QFlags<Qt::AlignmentFlag>'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextformat.h(373,44): warning C4251: 'QTextFormat::d': class 'QSharedDataPointer<QTextFormatPrivate>' needs to have dll-interface to be used by clients of class 'QTextFormat'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextformat.h(373,5): message : see declaration of 'QSharedDataPointer<QTextFormatPrivate>'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextcursor.h(231,44): warning C4251: 'QTextCursor::d': class 'QSharedDataPointer<QTextCursorPrivate>' needs to have dll-interface to be used by clients of class 'QTextCursor'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextcursor.h(231,5): message : see declaration of 'QSharedDataPointer<QTextCursorPrivate>'
+  MDIWindow.cxx
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(481,13): warning C4251: 'QVariant::d': struct 'QVariant::Private' needs to have dll-interface to be used by clients of class 'QVariant'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(389,12): message : see declaration of 'QVariant::Private'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(604,48): warning C4251: 'QSequentialIterable::m_impl': class 'QtMetaTypePrivate::QSequentialIterableImpl' needs to have dll-interface to be used by clients of class 'QSequentialIterable'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(979,7): message : see declaration of 'QtMetaTypePrivate::QSequentialIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(609,52): warning C4251: 'QSequentialIterable::const_iterator::m_impl': class 'QtMetaTypePrivate::QSequentialIterableImpl' needs to have dll-interface to be used by clients of struct 'QSequentialIterable::const_iterator'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(979,7): message : see declaration of 'QtMetaTypePrivate::QSequentialIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(657,49): warning C4251: 'QAssociativeIterable::m_impl': class 'QtMetaTypePrivate::QAssociativeIterableImpl' needs to have dll-interface to be used by clients of class 'QAssociativeIterable'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(1140,7): message : see declaration of 'QtMetaTypePrivate::QAssociativeIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(662,53): warning C4251: 'QAssociativeIterable::const_iterator::m_impl': class 'QtMetaTypePrivate::QAssociativeIterableImpl' needs to have dll-interface to be used by clients of struct 'QAssociativeIterable::const_iterator'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(1140,7): message : see declaration of 'QtMetaTypePrivate::QAssociativeIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qlocale.h(1093,40): warning C4251: 'QLocale::d': class 'QSharedDataPointer<QLocalePrivate>' needs to have dll-interface to be used by clients of class 'QLocale'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qlocale.h(1093,5): message : see declaration of 'QSharedDataPointer<QLocalePrivate>'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtWidgets\qlayoutitem.h(86,19): warning C4251: 'QLayoutItem::align': class 'QFlags<Qt::AlignmentFlag>' needs to have dll-interface to be used by clients of class 'QLayoutItem'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qnamespace.h(227,5): message : see declaration of 'QFlags<Qt::AlignmentFlag>'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextformat.h(373,44): warning C4251: 'QTextFormat::d': class 'QSharedDataPointer<QTextFormatPrivate>' needs to have dll-interface to be used by clients of class 'QTextFormat'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextformat.h(373,5): message : see declaration of 'QSharedDataPointer<QTextFormatPrivate>'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextcursor.h(231,44): warning C4251: 'QTextCursor::d': class 'QSharedDataPointer<QTextCursorPrivate>' needs to have dll-interface to be used by clients of class 'QTextCursor'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextcursor.h(231,5): message : see declaration of 'QSharedDataPointer<QTextCursorPrivate>'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qtextstream.h(198,40): warning C4251: 'QTextStream::d_ptr': class 'QScopedPointer<QTextStreamPrivate,QScopedPointerDeleter<T>>' needs to have dll-interface to be used by clients of class 'QTextStream'
+          with
+          [
+              T=QTextStreamPrivate
+          ]
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qtextstream.h(198,5): message : see declaration of 'QScopedPointer<QTextStreamPrivate,QScopedPointerDeleter<T>>'
+          with
+          [
+              T=QTextStreamPrivate
+          ]
+  Main.cxx
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(481,13): warning C4251: 'QVariant::d': struct 'QVariant::Private' needs to have dll-interface to be used by clients of class 'QVariant'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(389,12): message : see declaration of 'QVariant::Private'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(604,48): warning C4251: 'QSequentialIterable::m_impl': class 'QtMetaTypePrivate::QSequentialIterableImpl' needs to have dll-interface to be used by clients of class 'QSequentialIterable'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(979,7): message : see declaration of 'QtMetaTypePrivate::QSequentialIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(609,52): warning C4251: 'QSequentialIterable::const_iterator::m_impl': class 'QtMetaTypePrivate::QSequentialIterableImpl' needs to have dll-interface to be used by clients of struct 'QSequentialIterable::const_iterator'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(979,7): message : see declaration of 'QtMetaTypePrivate::QSequentialIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(657,49): warning C4251: 'QAssociativeIterable::m_impl': class 'QtMetaTypePrivate::QAssociativeIterableImpl' needs to have dll-interface to be used by clients of class 'QAssociativeIterable'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(1140,7): message : see declaration of 'QtMetaTypePrivate::QAssociativeIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(662,53): warning C4251: 'QAssociativeIterable::const_iterator::m_impl': class 'QtMetaTypePrivate::QAssociativeIterableImpl' needs to have dll-interface to be used by clients of struct 'QAssociativeIterable::const_iterator'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(1140,7): message : see declaration of 'QtMetaTypePrivate::QAssociativeIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qlocale.h(1093,40): warning C4251: 'QLocale::d': class 'QSharedDataPointer<QLocalePrivate>' needs to have dll-interface to be used by clients of class 'QLocale'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qlocale.h(1093,5): message : see declaration of 'QSharedDataPointer<QLocalePrivate>'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtWidgets\qlayoutitem.h(86,19): warning C4251: 'QLayoutItem::align': class 'QFlags<Qt::AlignmentFlag>' needs to have dll-interface to be used by clients of class 'QLayoutItem'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qnamespace.h(227,5): message : see declaration of 'QFlags<Qt::AlignmentFlag>'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextformat.h(373,44): warning C4251: 'QTextFormat::d': class 'QSharedDataPointer<QTextFormatPrivate>' needs to have dll-interface to be used by clients of class 'QTextFormat'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextformat.h(373,5): message : see declaration of 'QSharedDataPointer<QTextFormatPrivate>'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextcursor.h(231,44): warning C4251: 'QTextCursor::d': class 'QSharedDataPointer<QTextCursorPrivate>' needs to have dll-interface to be used by clients of class 'QTextCursor'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextcursor.h(231,5): message : see declaration of 'QSharedDataPointer<QTextCursorPrivate>'
+  Translate.cxx
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(481,13): warning C4251: 'QVariant::d': struct 'QVariant::Private' needs to have dll-interface to be used by clients of class 'QVariant'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(389,12): message : see declaration of 'QVariant::Private'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(604,48): warning C4251: 'QSequentialIterable::m_impl': class 'QtMetaTypePrivate::QSequentialIterableImpl' needs to have dll-interface to be used by clients of class 'QSequentialIterable'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(979,7): message : see declaration of 'QtMetaTypePrivate::QSequentialIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(609,52): warning C4251: 'QSequentialIterable::const_iterator::m_impl': class 'QtMetaTypePrivate::QSequentialIterableImpl' needs to have dll-interface to be used by clients of struct 'QSequentialIterable::const_iterator'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(979,7): message : see declaration of 'QtMetaTypePrivate::QSequentialIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(657,49): warning C4251: 'QAssociativeIterable::m_impl': class 'QtMetaTypePrivate::QAssociativeIterableImpl' needs to have dll-interface to be used by clients of class 'QAssociativeIterable'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(1140,7): message : see declaration of 'QtMetaTypePrivate::QAssociativeIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(662,53): warning C4251: 'QAssociativeIterable::const_iterator::m_impl': class 'QtMetaTypePrivate::QAssociativeIterableImpl' needs to have dll-interface to be used by clients of struct 'QAssociativeIterable::const_iterator'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(1140,7): message : see declaration of 'QtMetaTypePrivate::QAssociativeIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qlocale.h(1093,40): warning C4251: 'QLocale::d': class 'QSharedDataPointer<QLocalePrivate>' needs to have dll-interface to be used by clients of class 'QLocale'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qlocale.h(1093,5): message : see declaration of 'QSharedDataPointer<QLocalePrivate>'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtWidgets\qlayoutitem.h(86,19): warning C4251: 'QLayoutItem::align': class 'QFlags<Qt::AlignmentFlag>' needs to have dll-interface to be used by clients of class 'QLayoutItem'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qnamespace.h(227,5): message : see declaration of 'QFlags<Qt::AlignmentFlag>'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextformat.h(373,44): warning C4251: 'QTextFormat::d': class 'QSharedDataPointer<QTextFormatPrivate>' needs to have dll-interface to be used by clients of class 'QTextFormat'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextformat.h(373,5): message : see declaration of 'QSharedDataPointer<QTextFormatPrivate>'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextcursor.h(231,44): warning C4251: 'QTextCursor::d': class 'QSharedDataPointer<QTextCursorPrivate>' needs to have dll-interface to be used by clients of class 'QTextCursor'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextcursor.h(231,5): message : see declaration of 'QSharedDataPointer<QTextCursorPrivate>'
+  View.cxx
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qlocale.h(1093,40): warning C4251: 'QLocale::d': class 'QSharedDataPointer<QLocalePrivate>' needs to have dll-interface to be used by clients of class 'QLocale'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qlocale.h(1093,5): message : see declaration of 'QSharedDataPointer<QLocalePrivate>'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtWidgets\qlayoutitem.h(86,19): warning C4251: 'QLayoutItem::align': class 'QFlags<Qt::AlignmentFlag>' needs to have dll-interface to be used by clients of class 'QLayoutItem'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qnamespace.h(227,5): message : see declaration of 'QFlags<Qt::AlignmentFlag>'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextformat.h(373,44): warning C4251: 'QTextFormat::d': class 'QSharedDataPointer<QTextFormatPrivate>' needs to have dll-interface to be used by clients of class 'QTextFormat'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextformat.h(373,5): message : see declaration of 'QSharedDataPointer<QTextFormatPrivate>'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextcursor.h(231,44): warning C4251: 'QTextCursor::d': class 'QSharedDataPointer<QTextCursorPrivate>' needs to have dll-interface to be used by clients of class 'QTextCursor'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextcursor.h(231,5): message : see declaration of 'QSharedDataPointer<QTextCursorPrivate>'
+C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\Common\src\View.cxx(58,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\Common\src\View.cxx(279,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\Common\src\View.cxx(282,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\Common\src\View.cxx(301,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\Common\src\View.cxx(309,71): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\Common\src\View.cxx(310,71): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\Common\src\View.cxx(410,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\Common\src\View.cxx(411,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\Common\src\View.cxx(334,11): warning C4189: 'height': local variable is initialized but not referenced
+C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\Common\src\View.cxx(333,11): warning C4189: 'width': local variable is initialized but not referenced
+C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\Common\src\View.cxx(486,32): warning C4244: '=': conversion from 'qreal' to 'float', possible loss of data
+C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\Common\src\View.cxx(487,32): warning C4244: '=': conversion from 'qreal' to 'float', possible loss of data
+C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\Common\src\View.cxx(488,32): warning C4244: '=': conversion from 'qreal' to 'float', possible loss of data
+C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\Common\src\View.cxx(489,32): warning C4244: '=': conversion from 'qreal' to 'float', possible loss of data
+C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\Common\src\View.cxx(493,43): warning C4100: 'e': unreferenced formal parameter
+C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\Common\src\View.cxx(503,23): warning C4244: '=': conversion from 'qreal' to 'float', possible loss of data
+C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\Common\src\View.cxx(504,23): warning C4244: '=': conversion from 'qreal' to 'float', possible loss of data
+C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\Common\src\View.cxx(1263,96): warning C4100: 'zl': unreferenced formal parameter
+C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\Common\src\View.cxx(1263,85): warning C4100: 'yl': unreferenced formal parameter
+C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\Common\src\View.cxx(1263,74): warning C4100: 'xl': unreferenced formal parameter
+C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\Common\src\View.cxx(1263,63): warning C4100: 'zu': unreferenced formal parameter
+C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\Common\src\View.cxx(1263,52): warning C4100: 'yu': unreferenced formal parameter
+C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\Common\src\View.cxx(1263,41): warning C4100: 'xu': unreferenced formal parameter
+C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\Common\src\View.cxx(1263,31): warning C4100: 'n': unreferenced formal parameter
+C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\Common\src\View.cxx(1270,96): warning C4100: 'zl': unreferenced formal parameter
+C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\Common\src\View.cxx(1270,85): warning C4100: 'yl': unreferenced formal parameter
+C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\Common\src\View.cxx(1270,74): warning C4100: 'xl': unreferenced formal parameter
+C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\Common\src\View.cxx(1270,63): warning C4100: 'zu': unreferenced formal parameter
+C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\Common\src\View.cxx(1270,52): warning C4100: 'yu': unreferenced formal parameter
+C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\Common\src\View.cxx(1270,41): warning C4100: 'xu': unreferenced formal parameter
+C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\Common\src\View.cxx(1270,31): warning C4100: 'n': unreferenced formal parameter
+C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\Common\src\View.cxx(1279,109): warning C4100: 'zl': unreferenced formal parameter
+C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\Common\src\View.cxx(1279,97): warning C4100: 'yl': unreferenced formal parameter
+C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\Common\src\View.cxx(1279,85): warning C4100: 'xl': unreferenced formal parameter
+C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\Common\src\View.cxx(1279,73): warning C4100: 'zr': unreferenced formal parameter
+C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\Common\src\View.cxx(1279,61): warning C4100: 'yr': unreferenced formal parameter
+C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\Common\src\View.cxx(1279,49): warning C4100: 'xr': unreferenced formal parameter
+C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\Common\src\View.cxx(1279,37): warning C4100: 'n2': unreferenced formal parameter
+C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\Common\src\View.cxx(1279,29): warning C4100: 'n1': unreferenced formal parameter
+C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\Common\src\View.cxx(1295,60): warning C4100: 'z1': unreferenced formal parameter
+C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\Common\src\View.cxx(1295,49): warning C4100: 'y1': unreferenced formal parameter
+C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\Common\src\View.cxx(1295,28): warning C4100: 'n': unreferenced formal parameter
+  moc_Application.cpp
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(481,13): warning C4251: 'QVariant::d': struct 'QVariant::Private' needs to have dll-interface to be used by clients of class 'QVariant'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(389,12): message : see declaration of 'QVariant::Private'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(604,48): warning C4251: 'QSequentialIterable::m_impl': class 'QtMetaTypePrivate::QSequentialIterableImpl' needs to have dll-interface to be used by clients of class 'QSequentialIterable'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(979,7): message : see declaration of 'QtMetaTypePrivate::QSequentialIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(609,52): warning C4251: 'QSequentialIterable::const_iterator::m_impl': class 'QtMetaTypePrivate::QSequentialIterableImpl' needs to have dll-interface to be used by clients of struct 'QSequentialIterable::const_iterator'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(979,7): message : see declaration of 'QtMetaTypePrivate::QSequentialIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(657,49): warning C4251: 'QAssociativeIterable::m_impl': class 'QtMetaTypePrivate::QAssociativeIterableImpl' needs to have dll-interface to be used by clients of class 'QAssociativeIterable'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(1140,7): message : see declaration of 'QtMetaTypePrivate::QAssociativeIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(662,53): warning C4251: 'QAssociativeIterable::const_iterator::m_impl': class 'QtMetaTypePrivate::QAssociativeIterableImpl' needs to have dll-interface to be used by clients of struct 'QAssociativeIterable::const_iterator'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(1140,7): message : see declaration of 'QtMetaTypePrivate::QAssociativeIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qlocale.h(1093,40): warning C4251: 'QLocale::d': class 'QSharedDataPointer<QLocalePrivate>' needs to have dll-interface to be used by clients of class 'QLocale'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qlocale.h(1093,5): message : see declaration of 'QSharedDataPointer<QLocalePrivate>'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtWidgets\qlayoutitem.h(86,19): warning C4251: 'QLayoutItem::align': class 'QFlags<Qt::AlignmentFlag>' needs to have dll-interface to be used by clients of class 'QLayoutItem'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qnamespace.h(227,5): message : see declaration of 'QFlags<Qt::AlignmentFlag>'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextformat.h(373,44): warning C4251: 'QTextFormat::d': class 'QSharedDataPointer<QTextFormatPrivate>' needs to have dll-interface to be used by clients of class 'QTextFormat'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextformat.h(373,5): message : see declaration of 'QSharedDataPointer<QTextFormatPrivate>'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextcursor.h(231,44): warning C4251: 'QTextCursor::d': class 'QSharedDataPointer<QTextCursorPrivate>' needs to have dll-interface to be used by clients of class 'QTextCursor'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextcursor.h(231,5): message : see declaration of 'QSharedDataPointer<QTextCursorPrivate>'
+  moc_ApplicationCommon.cpp
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(481,13): warning C4251: 'QVariant::d': struct 'QVariant::Private' needs to have dll-interface to be used by clients of class 'QVariant'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(389,12): message : see declaration of 'QVariant::Private'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(604,48): warning C4251: 'QSequentialIterable::m_impl': class 'QtMetaTypePrivate::QSequentialIterableImpl' needs to have dll-interface to be used by clients of class 'QSequentialIterable'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(979,7): message : see declaration of 'QtMetaTypePrivate::QSequentialIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(609,52): warning C4251: 'QSequentialIterable::const_iterator::m_impl': class 'QtMetaTypePrivate::QSequentialIterableImpl' needs to have dll-interface to be used by clients of struct 'QSequentialIterable::const_iterator'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(979,7): message : see declaration of 'QtMetaTypePrivate::QSequentialIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(657,49): warning C4251: 'QAssociativeIterable::m_impl': class 'QtMetaTypePrivate::QAssociativeIterableImpl' needs to have dll-interface to be used by clients of class 'QAssociativeIterable'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(1140,7): message : see declaration of 'QtMetaTypePrivate::QAssociativeIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(662,53): warning C4251: 'QAssociativeIterable::const_iterator::m_impl': class 'QtMetaTypePrivate::QAssociativeIterableImpl' needs to have dll-interface to be used by clients of struct 'QAssociativeIterable::const_iterator'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(1140,7): message : see declaration of 'QtMetaTypePrivate::QAssociativeIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qlocale.h(1093,40): warning C4251: 'QLocale::d': class 'QSharedDataPointer<QLocalePrivate>' needs to have dll-interface to be used by clients of class 'QLocale'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qlocale.h(1093,5): message : see declaration of 'QSharedDataPointer<QLocalePrivate>'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtWidgets\qlayoutitem.h(86,19): warning C4251: 'QLayoutItem::align': class 'QFlags<Qt::AlignmentFlag>' needs to have dll-interface to be used by clients of class 'QLayoutItem'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qnamespace.h(227,5): message : see declaration of 'QFlags<Qt::AlignmentFlag>'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextformat.h(373,44): warning C4251: 'QTextFormat::d': class 'QSharedDataPointer<QTextFormatPrivate>' needs to have dll-interface to be used by clients of class 'QTextFormat'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextformat.h(373,5): message : see declaration of 'QSharedDataPointer<QTextFormatPrivate>'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextcursor.h(231,44): warning C4251: 'QTextCursor::d': class 'QSharedDataPointer<QTextCursorPrivate>' needs to have dll-interface to be used by clients of class 'QTextCursor'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextcursor.h(231,5): message : see declaration of 'QSharedDataPointer<QTextCursorPrivate>'
+  moc_ApplicationTut.cpp
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(481,13): warning C4251: 'QVariant::d': struct 'QVariant::Private' needs to have dll-interface to be used by clients of class 'QVariant'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(389,12): message : see declaration of 'QVariant::Private'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(604,48): warning C4251: 'QSequentialIterable::m_impl': class 'QtMetaTypePrivate::QSequentialIterableImpl' needs to have dll-interface to be used by clients of class 'QSequentialIterable'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(979,7): message : see declaration of 'QtMetaTypePrivate::QSequentialIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(609,52): warning C4251: 'QSequentialIterable::const_iterator::m_impl': class 'QtMetaTypePrivate::QSequentialIterableImpl' needs to have dll-interface to be used by clients of struct 'QSequentialIterable::const_iterator'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(979,7): message : see declaration of 'QtMetaTypePrivate::QSequentialIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(657,49): warning C4251: 'QAssociativeIterable::m_impl': class 'QtMetaTypePrivate::QAssociativeIterableImpl' needs to have dll-interface to be used by clients of class 'QAssociativeIterable'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(1140,7): message : see declaration of 'QtMetaTypePrivate::QAssociativeIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(662,53): warning C4251: 'QAssociativeIterable::const_iterator::m_impl': class 'QtMetaTypePrivate::QAssociativeIterableImpl' needs to have dll-interface to be used by clients of struct 'QAssociativeIterable::const_iterator'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(1140,7): message : see declaration of 'QtMetaTypePrivate::QAssociativeIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qlocale.h(1093,40): warning C4251: 'QLocale::d': class 'QSharedDataPointer<QLocalePrivate>' needs to have dll-interface to be used by clients of class 'QLocale'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qlocale.h(1093,5): message : see declaration of 'QSharedDataPointer<QLocalePrivate>'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtWidgets\qlayoutitem.h(86,19): warning C4251: 'QLayoutItem::align': class 'QFlags<Qt::AlignmentFlag>' needs to have dll-interface to be used by clients of class 'QLayoutItem'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qnamespace.h(227,5): message : see declaration of 'QFlags<Qt::AlignmentFlag>'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextformat.h(373,44): warning C4251: 'QTextFormat::d': class 'QSharedDataPointer<QTextFormatPrivate>' needs to have dll-interface to be used by clients of class 'QTextFormat'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextformat.h(373,5): message : see declaration of 'QSharedDataPointer<QTextFormatPrivate>'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextcursor.h(231,44): warning C4251: 'QTextCursor::d': class 'QSharedDataPointer<QTextCursorPrivate>' needs to have dll-interface to be used by clients of class 'QTextCursor'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextcursor.h(231,5): message : see declaration of 'QSharedDataPointer<QTextCursorPrivate>'
+  moc_DocumentCommon.cpp
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(481,13): warning C4251: 'QVariant::d': struct 'QVariant::Private' needs to have dll-interface to be used by clients of class 'QVariant'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(389,12): message : see declaration of 'QVariant::Private'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(604,48): warning C4251: 'QSequentialIterable::m_impl': class 'QtMetaTypePrivate::QSequentialIterableImpl' needs to have dll-interface to be used by clients of class 'QSequentialIterable'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(979,7): message : see declaration of 'QtMetaTypePrivate::QSequentialIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(609,52): warning C4251: 'QSequentialIterable::const_iterator::m_impl': class 'QtMetaTypePrivate::QSequentialIterableImpl' needs to have dll-interface to be used by clients of struct 'QSequentialIterable::const_iterator'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(979,7): message : see declaration of 'QtMetaTypePrivate::QSequentialIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(657,49): warning C4251: 'QAssociativeIterable::m_impl': class 'QtMetaTypePrivate::QAssociativeIterableImpl' needs to have dll-interface to be used by clients of class 'QAssociativeIterable'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(1140,7): message : see declaration of 'QtMetaTypePrivate::QAssociativeIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(662,53): warning C4251: 'QAssociativeIterable::const_iterator::m_impl': class 'QtMetaTypePrivate::QAssociativeIterableImpl' needs to have dll-interface to be used by clients of struct 'QAssociativeIterable::const_iterator'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(1140,7): message : see declaration of 'QtMetaTypePrivate::QAssociativeIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qlocale.h(1093,40): warning C4251: 'QLocale::d': class 'QSharedDataPointer<QLocalePrivate>' needs to have dll-interface to be used by clients of class 'QLocale'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qlocale.h(1093,5): message : see declaration of 'QSharedDataPointer<QLocalePrivate>'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtWidgets\qlayoutitem.h(86,19): warning C4251: 'QLayoutItem::align': class 'QFlags<Qt::AlignmentFlag>' needs to have dll-interface to be used by clients of class 'QLayoutItem'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qnamespace.h(227,5): message : see declaration of 'QFlags<Qt::AlignmentFlag>'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextformat.h(373,44): warning C4251: 'QTextFormat::d': class 'QSharedDataPointer<QTextFormatPrivate>' needs to have dll-interface to be used by clients of class 'QTextFormat'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextformat.h(373,5): message : see declaration of 'QSharedDataPointer<QTextFormatPrivate>'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextcursor.h(231,44): warning C4251: 'QTextCursor::d': class 'QSharedDataPointer<QTextCursorPrivate>' needs to have dll-interface to be used by clients of class 'QTextCursor'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextcursor.h(231,5): message : see declaration of 'QSharedDataPointer<QTextCursorPrivate>'
+  moc_DocumentTut.cpp
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(481,13): warning C4251: 'QVariant::d': struct 'QVariant::Private' needs to have dll-interface to be used by clients of class 'QVariant'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(389,12): message : see declaration of 'QVariant::Private'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(604,48): warning C4251: 'QSequentialIterable::m_impl': class 'QtMetaTypePrivate::QSequentialIterableImpl' needs to have dll-interface to be used by clients of class 'QSequentialIterable'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(979,7): message : see declaration of 'QtMetaTypePrivate::QSequentialIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(609,52): warning C4251: 'QSequentialIterable::const_iterator::m_impl': class 'QtMetaTypePrivate::QSequentialIterableImpl' needs to have dll-interface to be used by clients of struct 'QSequentialIterable::const_iterator'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(979,7): message : see declaration of 'QtMetaTypePrivate::QSequentialIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(657,49): warning C4251: 'QAssociativeIterable::m_impl': class 'QtMetaTypePrivate::QAssociativeIterableImpl' needs to have dll-interface to be used by clients of class 'QAssociativeIterable'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(1140,7): message : see declaration of 'QtMetaTypePrivate::QAssociativeIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(662,53): warning C4251: 'QAssociativeIterable::const_iterator::m_impl': class 'QtMetaTypePrivate::QAssociativeIterableImpl' needs to have dll-interface to be used by clients of struct 'QAssociativeIterable::const_iterator'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(1140,7): message : see declaration of 'QtMetaTypePrivate::QAssociativeIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qlocale.h(1093,40): warning C4251: 'QLocale::d': class 'QSharedDataPointer<QLocalePrivate>' needs to have dll-interface to be used by clients of class 'QLocale'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qlocale.h(1093,5): message : see declaration of 'QSharedDataPointer<QLocalePrivate>'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtWidgets\qlayoutitem.h(86,19): warning C4251: 'QLayoutItem::align': class 'QFlags<Qt::AlignmentFlag>' needs to have dll-interface to be used by clients of class 'QLayoutItem'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qnamespace.h(227,5): message : see declaration of 'QFlags<Qt::AlignmentFlag>'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextformat.h(373,44): warning C4251: 'QTextFormat::d': class 'QSharedDataPointer<QTextFormatPrivate>' needs to have dll-interface to be used by clients of class 'QTextFormat'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextformat.h(373,5): message : see declaration of 'QSharedDataPointer<QTextFormatPrivate>'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextcursor.h(231,44): warning C4251: 'QTextCursor::d': class 'QSharedDataPointer<QTextCursorPrivate>' needs to have dll-interface to be used by clients of class 'QTextCursor'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextcursor.h(231,5): message : see declaration of 'QSharedDataPointer<QTextCursorPrivate>'
+  moc_MDIWindow.cpp
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(481,13): warning C4251: 'QVariant::d': struct 'QVariant::Private' needs to have dll-interface to be used by clients of class 'QVariant'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(389,12): message : see declaration of 'QVariant::Private'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(604,48): warning C4251: 'QSequentialIterable::m_impl': class 'QtMetaTypePrivate::QSequentialIterableImpl' needs to have dll-interface to be used by clients of class 'QSequentialIterable'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(979,7): message : see declaration of 'QtMetaTypePrivate::QSequentialIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(609,52): warning C4251: 'QSequentialIterable::const_iterator::m_impl': class 'QtMetaTypePrivate::QSequentialIterableImpl' needs to have dll-interface to be used by clients of struct 'QSequentialIterable::const_iterator'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(979,7): message : see declaration of 'QtMetaTypePrivate::QSequentialIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(657,49): warning C4251: 'QAssociativeIterable::m_impl': class 'QtMetaTypePrivate::QAssociativeIterableImpl' needs to have dll-interface to be used by clients of class 'QAssociativeIterable'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(1140,7): message : see declaration of 'QtMetaTypePrivate::QAssociativeIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qvariant.h(662,53): warning C4251: 'QAssociativeIterable::const_iterator::m_impl': class 'QtMetaTypePrivate::QAssociativeIterableImpl' needs to have dll-interface to be used by clients of struct 'QAssociativeIterable::const_iterator'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qmetatype.h(1140,7): message : see declaration of 'QtMetaTypePrivate::QAssociativeIterableImpl'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qlocale.h(1093,40): warning C4251: 'QLocale::d': class 'QSharedDataPointer<QLocalePrivate>' needs to have dll-interface to be used by clients of class 'QLocale'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qlocale.h(1093,5): message : see declaration of 'QSharedDataPointer<QLocalePrivate>'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtWidgets\qlayoutitem.h(86,19): warning C4251: 'QLayoutItem::align': class 'QFlags<Qt::AlignmentFlag>' needs to have dll-interface to be used by clients of class 'QLayoutItem'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtCore\qnamespace.h(227,5): message : see declaration of 'QFlags<Qt::AlignmentFlag>'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextformat.h(373,44): warning C4251: 'QTextFormat::d': class 'QSharedDataPointer<QTextFormatPrivate>' needs to have dll-interface to be used by clients of class 'QTextFormat'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextformat.h(373,5): message : see declaration of 'QSharedDataPointer<QTextFormatPrivate>'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextcursor.h(231,44): warning C4251: 'QTextCursor::d': class 'QSharedDataPointer<QTextCursorPrivate>' needs to have dll-interface to be used by clients of class 'QTextCursor'
+C:\OpenCASCADE-7.7.0-vc14-64\qt5.11.2-vc14-64\include\QtGui\qtextcursor.h(231,5): message : see declaration of 'QSharedDataPointer<QTextCursorPrivate>'
+  Generating Code...
+win64\vc143\objd\main.obj : warning LNK4042: object specified more than once; extras ignored
+     Creating library C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\x64\Debug\\FlightTechAerodynamics.lib and object C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\x64\Debug\\FlightTechAerodynamics.exp
+  FlightTechAerodynamics.vcxproj -> C:\OpenCASCADE-7.7.0-vc14-64\opencascade-7.7.0\samples\qt\flighttechaerodynamics\x64\Debug\FlightTechAerodynamics.exe

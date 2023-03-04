@@ -1,0 +1,5 @@
+TEMPLATE=subdirs
+
+SUBDIRS=FlightTechAerodynamics0
+
+FlightTechAerodynamics0.file=FlightTechAerodynamics.pro
